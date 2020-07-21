@@ -59,7 +59,11 @@
   <component name="FavoritesManager">
     <favorites_list name="PDO" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1eLjMZY02u1IQrv7T1cFPynEIsH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -104,6 +108,7 @@
       <workItem from="1594107720523" duration="21832000" />
       <workItem from="1594709211131" duration="10956000" />
       <workItem from="1595053056705" duration="62000" />
+      <workItem from="1595314636829" duration="310000" />
     </task>
     <servers />
   </component>
