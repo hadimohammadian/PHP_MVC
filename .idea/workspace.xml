@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed5619b3-ff06-4f8d-a7ff-bd71c0667bc2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="isiran@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="isiran@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="isiran@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="isiran: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="isiran@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="isiran: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="news: table" type="dbc44a63:MariaImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="isiran@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="isiran: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="product: table" type="dbc44a63:MariaImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PDO" />
+  </component>
+  <component name="ProjectId" id="1eLjMZY02u1IQrv7T1cFPynEIsH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;sqlserver" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="L:/PDO" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="two.files.diff.last.used.folder" value="L:/PDO" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.17866492" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:isiran@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed5619b3-ff06-4f8d-a7ff-bd71c0667bc2" name="Default Changelist" comment="" />
+      <created>1594107719190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594107719190</updated>
+      <workItem from="1594107720523" duration="21832000" />
+      <workItem from="1594709211131" duration="10956000" />
+      <workItem from="1595053056705" duration="62000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1338" y="221" width="1092" height="828" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594536803487">
+      <screen x="-1600" y="190" width="1600" height="860" />
+    </state>
+    <state x="-1338" y="221" width="1092" height="828" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1600.190.1600.860@-1600.190.1600.860" timestamp="1594536803487" />
+    <state x="-1046" y="248" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594795517808">
+      <screen x="-1600" y="190" width="1600" height="860" />
+    </state>
+    <state x="-1046" y="248" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/-1600.190.1600.860@-1600.190.1600.860" timestamp="1594795517808" />
+    <state x="-1500" y="290" width="1400" height="660" key="DiffContextDialog" timestamp="1594806889528">
+      <screen x="-1600" y="190" width="1600" height="860" />
+    </state>
+    <state x="-1500" y="290" width="1400" height="660" key="DiffContextDialog/0.0.1920.1040/-1600.190.1600.860@-1600.190.1600.860" timestamp="1594806889528" />
+    <state x="-1020" y="375" key="FileChooserDialogImpl" timestamp="1594806867034">
+      <screen x="-1600" y="190" width="1600" height="860" />
+    </state>
+    <state x="-1020" y="375" key="FileChooserDialogImpl/0.0.1920.1040/-1600.190.1600.860@-1600.190.1600.860" timestamp="1594806867034" />
+    <state width="1069" height="222" key="GridCell.Tab.0.bottom" timestamp="1594527681722">
+      <screen x="-1600" y="190" width="1600" height="860" />
+    </state>
+    <state width="1069" height="222" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1600.190.1600.860@-1600.190.1600.860" timestamp="1594527681722" />
+    <state width="1069" height="222" key="GridCell.Tab.0.center" timestamp="1594527681722">
+      <screen x="-1600" y="190" width="1600" height="860" />
+    </state>
+    <state width="1069" height="222" key="GridCell.Tab.0.center/0.0.1920.1040/-1600.190.1600.860@-1600.190.1600.860" timestamp="1594527681722" />
+    <state width="1069" height="222" key="GridCell.Tab.0.left" timestamp="1594527681722">
+      <screen x="-1600" y="190" width="1600" height="860" />
+    </state>
+    <state width="1069" height="222" key="GridCell.Tab.0.left/0.0.1920.1040/-1600.190.1600.860@-1600.190.1600.860" timestamp="1594527681722" />
+    <state width="1069" height="222" key="GridCell.Tab.0.right" timestamp="1594527681722">
+      <screen x="-1600" y="190" width="1600" height="860" />
+    </state>
+    <state width="1069" height="222" key="GridCell.Tab.0.right/0.0.1920.1040/-1600.190.1600.860@-1600.190.1600.860" timestamp="1594527681722" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1594536424540">
+      <screen x="-1600" y="190" width="1600" height="860" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1920.1040/-1600.190.1600.860@-1600.190.1600.860" timestamp="1594536424540" />
+    <state x="-978" y="434" key="NewPhpClassDialog" timestamp="1594803677030">
+      <screen x="-1600" y="190" width="1600" height="860" />
+    </state>
+    <state x="-978" y="434" key="NewPhpClassDialog/0.0.1920.1040/-1600.190.1600.860@-1600.190.1600.860" timestamp="1594803677030" />
+    <state x="-965" y="543" key="NewPhpFileDialog" timestamp="1594192709253">
+      <screen x="-1600" y="190" width="1600" height="860" />
+    </state>
+    <state x="-965" y="543" key="NewPhpFileDialog/0.0.1920.1040/-1600.190.1600.860@-1600.190.1600.860" timestamp="1594192709253" />
+    <state x="-1084" y="261" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1594795773687">
+      <screen x="-1600" y="190" width="1600" height="860" />
+    </state>
+    <state x="-1084" y="261" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1040/-1600.190.1600.860@-1600.190.1600.860" timestamp="1594795773687" />
+    <state x="-942" y="358" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1594536291985">
+      <screen x="-1600" y="190" width="1600" height="860" />
+    </state>
+    <state x="-942" y="358" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1920.1040/-1600.190.1600.860@-1600.190.1600.860" timestamp="1594536291985" />
+  </component>
+</project>
